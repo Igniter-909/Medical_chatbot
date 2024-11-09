@@ -5,4 +5,8 @@ sentence-transformers
 langchain-community
 dotenv-python
 pinecone
+langchain-pinecone
+langchain-community
 pypdf
+
+-e .
