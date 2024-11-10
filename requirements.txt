@@ -7,6 +7,7 @@ dotenv-python
 pinecone
 langchain-pinecone
 langchain-community
+langchain-huggingface
 pypdf
 
 -e .

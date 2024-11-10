@@ -6,5 +6,5 @@ setup(
     author="Igniter-909",
     author_email="igniterofficial909505@gmail.com",
     packages=find_packages(),
-    install_requires=[],
+    install_requires=[]
 )
